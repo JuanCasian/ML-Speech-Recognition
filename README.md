@@ -55,6 +55,8 @@ After training the model for 9000 steps I submitted the results of the challenge
 - https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
 - https://www.tensorflow.org/guide/
 - https://www.tensorflow.org/guide/summaries_and_tensorboard
+- https://arxiv.org/pdf/1409.1556.pdf
+- https://www.ffmpeg.org/
 
 ### Authors
 Juan Pedro Casian - Github: [@JuanCasian](https://github.com/JuanCasian) - Email: juanpedrocasian@gmail.com
