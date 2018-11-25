@@ -58,5 +58,15 @@ After training the model for 9000 steps I submitted the results of the challenge
 - https://arxiv.org/pdf/1409.1556.pdf
 - https://www.ffmpeg.org/
 
+### Dependencies
+- tensorflow
+- pandas
+- numpy
+- matplotlib
+- os
+- skimage
+- python
+- ffmpeg
+
 ### Authors
 Juan Pedro Casian - Github: [@JuanCasian](https://github.com/JuanCasian) - Email: juanpedrocasian@gmail.com
